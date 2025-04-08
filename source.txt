@@ -1,0 +1,7 @@
+ExtraServiceMarketingHeader: BaseWidget
+headerImage: String?
+tags: [TagWidget]
+text1: WidgetText
+text2: WidgetText
+text3: WidgetText
+footer: BaseWidget

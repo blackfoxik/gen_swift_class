@@ -16,6 +16,8 @@ property_name: property_type
 #### Example:
 if source file contains the following content:
 
+```text
+
 ExtraServiceMarketingHeader: BaseWidget
 headerImage: String?
 tags: [TagWidget]
@@ -23,6 +25,8 @@ text1: WidgetText
 text2: WidgetText
 text3: WidgetText
 footer: BaseWidget
+
+```
 
 the output file will be:
 ExtraServiceMarketingHeader.swift
